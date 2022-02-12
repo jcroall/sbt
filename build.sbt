@@ -42,3 +42,6 @@ packageOptions in (Compile, packageBin) +=  {
     "Gerrit-HttpModule" -> "com.googlesource.gerrit.plugins.support.HttpModule"
   )
 }
+
+
+
